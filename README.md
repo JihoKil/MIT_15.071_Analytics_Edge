@@ -1,6 +1,6 @@
 # MIT15.071 Analytics Edge Final Project
 
-This is a repository for the final project of MIT 15.071, which is a course offered at the [MIT Sloan School of Management](https://mitsloan.mit.edu)
+This is a repository for the final project of MIT 15.071, which is a course offered at the [MIT Sloan School of Management](https://mitsloan.mit.edu).
 
 Our final project involves analyzing customer data of **Telco** (a fictional company providing home phone and internet services in California) to 
 offer actionable **customer retention** strategies. 
