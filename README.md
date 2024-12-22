@@ -17,4 +17,5 @@ Customer account information contains how long they’ve been a customer, contra
 Service information shows the type of services that each customer has signed up for – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV & movies. Customer Churn information indicates whether or not they left within the last month.
 
 
+## Project Report
 Please refer to the **Analytics_Edge_Final_Project.ipynb** file to enjoy the full notebook report on our final project. 
